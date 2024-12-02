@@ -1,1 +1,1 @@
-# mm_rag_loca_chat_app
+## Local Multimodal RAG chat app for audio, text and images
