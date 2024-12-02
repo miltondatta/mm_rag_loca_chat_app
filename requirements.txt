@@ -1,0 +1,17 @@
+chromadb
+langchain
+langchain-ollama
+langchain-chroma
+librosa
+pypdfium2
+pyyaml
+streamlit
+streamlit-mic-recorder
+transformers
+pydub
+#chat-api-handler
+#utils
+#audio-handler
+#pdf-handler
+#html-templates
+#database-operations
